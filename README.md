@@ -10,7 +10,7 @@ Instrucciones de Ejecución
 Sigue estos pasos para poner en marcha la aplicación en tu máquina local.
 1. Clonar el Repositorio (Opcional)
 Si estás descargando el proyecto, clónalo en tu máquina.
-git clone [https://github.com/tu-usuario/zap-lab.git](https://github.com/tu-usuario/zap-lab.git)
+git clone [https://github.com/carlosscastillo/zap-lab.git](https://github.com/carlosscastillo/zap-lab.git)
 cd zap-lab
 
 
